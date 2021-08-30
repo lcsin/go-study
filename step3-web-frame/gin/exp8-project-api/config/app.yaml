@@ -1,0 +1,5 @@
+app:
+  name: gin-backend-api
+  mode: debug
+  host: localhost
+  port: 8080
