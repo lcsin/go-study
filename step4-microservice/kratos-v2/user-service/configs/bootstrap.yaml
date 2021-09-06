@@ -1,0 +1,11 @@
+nacos:
+  addr: 192.168.5.130
+  port: 8848
+  NamespaceId: a16dd0d7-08ef-4bcb-a64e-d6e10fab2f7e
+  TimeoutMs: 5000
+  NotLoadCacheAtStart: true
+  LogDir: ..\..\tmp\nacos\log
+  CacheDir: ..\..\tmp\nacos\cache
+  RotateTime: 1h
+  MaxAge: 3
+  LogLevel: debug
